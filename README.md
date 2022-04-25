@@ -18,3 +18,8 @@ in nixpkgs.mkShell {
     niv
     # any additional packages needed for this project, e. g. Nodejs
   ];}
+       
+       git clone https://github.com/<your recording-art name>/nodejs.org.git
+cd nodejs.org
+npm install
+npm start
