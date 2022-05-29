@@ -52,3 +52,36 @@ center exch rap-platform at LargeFunding/andPayout scale and smartartistrecordin
     "@octo-org/octo-app": "1.0.0"
   }
 }
+
+Doppler Shift
+Calculate how Doppler shift changes the frequency of sound waves.
+
+Compute a Doppler shift:
+Sound Absorption
+Explore acoustic sound barriers and absorption properties of water and air.
+
+Find the absorption coefficient of seawater:
+Determine the effect of distance on sound pressure levels in moist air:
+Hearing-Loss Exposure Time
+Calculate how soon hearing is lost due to exposure to noise.
+
+Compute exposure time to avoid hearing loss:
+Subjective Acoustics
+Compute the subjective loudness and perceptual acoustical scale values of a sound.
+
+Compute perceived loudness:
+Compute source loudness:
+Convert frequencies to different perceptual acoustical scales:
+Helmholtz Resonator Frequency
+Determine the resonant frequencies of Helmholtz resonators based on their physical dimensions.
+
+Determine resonant frequency of a cavity:
+Play and visualize sound waves constructed from different waveforms.
+
+Generate sound with a specified waveform:
+Specify a waveform as a mathematical function:
+RELATED EXAMPLES
+Threshold Hearing Distance in Moist Air
+Calculate the hearing threshold for a sound based on ambient conditions.
+
+Find the maximum distance for hearing a sound:
